@@ -1,0 +1,6 @@
+
+Az alabbiak nem vettek 'arukod22'-t: 
+
+123    A1
+223    B2
+A legkevesebbet (0 darabot) C1 vasarolta 323-kor

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1495890430 source:c:\users\sándor\documents\programozas\felkeszules_geptermi_zhra\19\enor.cpp
+	"enor.h"
+	<iostream>
+	<sstream>
+
+1495853531 c:\users\sándor\documents\programozas\felkeszules_geptermi_zhra\19\enor.h
+	<fstream>
+	<vector>
+	<string>
+
+1495891167 source:c:\users\sándor\documents\programozas\felkeszules_geptermi_zhra\19\main.cpp
+	<iostream>
+	"enor.h"
+
+1495925973 source:c:\users\sándor\documents\programozas\felkeszules_geptermi_zhra\19-fajlbamentes\main.cpp
+	<iostream>
+	"enor.h"
+	"Outfile.h"
+
+1495927622 c:\users\sándor\documents\programozas\felkeszules_geptermi_zhra\19-fajlbamentes\enor.h
+	<fstream>
+	<vector>
+	<string>
+
+1495925881 c:\users\sándor\documents\programozas\felkeszules_geptermi_zhra\19-fajlbamentes\outfile.h
+	"enor.h"
+
+1495925954 source:c:\users\sándor\documents\programozas\felkeszules_geptermi_zhra\19-fajlbamentes\outfile.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"enor.h"
+	"Outfile.h"
+
